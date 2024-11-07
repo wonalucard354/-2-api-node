@@ -1,0 +1,12 @@
+{
+  "name": "api-de-ticket",
+  "version": "1.0.0",
+  "description": "treinamento de api da rockeseat",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev":"node --watch src/server.js"
+  },
+  "author": "lucas dumas",
+  "license": "ISC"
+}
